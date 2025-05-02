@@ -1,0 +1,6 @@
+TASK 8: Regional Category Sales Dashboard – Insights
+
+1. East and West regions dominated sales, particularly in Technology.
+2. Tree map reveals that Office Supplies are widely sold but have less contribution.
+3. Central region sales remain steady but never peak.
+4. Sales distribution across months shows a Q4 increase across all regions.
